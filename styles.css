@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: "Comic Sans";
+}
+
+#memeTitle {
+  margin-bottom: 100px;
+  font-size: 5em;
+  background-color: black;
+}
+
+#slideMeme {
+  font-size: 3em;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 100;
+}
+
+#guyMeme {
+  height: 200px;
+  width: auto;
+}

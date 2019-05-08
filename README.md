@@ -1,5 +1,5 @@
 # Chirag Meme
 
-http://chiragme.me/
+http://msrose.github.io/chirag-meme/
 
 Will accept all pull requests that meme hard enough.
